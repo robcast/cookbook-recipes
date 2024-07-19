@@ -143,6 +143,7 @@ Recipes using [Content State API](https://iiif.io/api/content-state/1.0/)
 
 ## Technical
 
+* [Fragment Selectors][0020]
 * extensions (18)
 * services (9,10)
 * Mixed version scenarios (Prezi 3+Image 2)

@@ -20,6 +20,7 @@
 [0139]: {{ site.cookbook_url | absolute_url }}/recipe/0139-geolocate-canvas-fragment/ "Represent Canvas Fragment as a Geographic Area on a Web Map"
 
 [0019]: {{ site.cookbook_url | absolute_url }}/recipe/0019-html-in-annotations/ "HTML in Annotations"
+[0020]: {{ site.cookbook_url | absolute_url }}/recipe/0020-fragment-selectors/ "Fragment Selectors"
 [0021]: {{ site.cookbook_url | absolute_url }}/recipe/0021-tagging/ "Simple Annotation — Tagging"
 [0022]: {{ site.cookbook_url | absolute_url }}/recipe/0022-linking-with-a-hotspot/ "Redirecting from one Canvas to another resource (Hotspot linking)"
 
